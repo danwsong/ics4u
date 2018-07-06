@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{92611077-09E9-49A9-A658-AB043EACD612}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Matchmaker/Program.cs">
+    <Files>
+      <File FileName="Matchmaker/Program.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Matchmaker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/danielsong/Documents/CSharpProjects/Patrician/Patrician/bin/Debug/Patrician.exe
+/Users/danielsong/Documents/CSharpProjects/Patrician/Patrician/bin/Debug/Patrician.pdb
+/Users/danielsong/Documents/CSharpProjects/Patrician/Patrician/obj/x86/Debug/Patrician.csproj.CoreCompileInputs.cache
+/Users/danielsong/Documents/CSharpProjects/Patrician/Patrician/obj/x86/Debug/Patrician.exe
+/Users/danielsong/Documents/CSharpProjects/Patrician/Patrician/obj/x86/Debug/Patrician.pdb

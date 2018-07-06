@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{33E6DBCA-9A8E-4EFB-8278-4C1909DF09A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Golems/Program.cs">
+    <Files>
+      <File FileName="Golems/Program.cs" Line="13" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Golems PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/danielsong/Documents/CSharpProjects/Golems/Golems/bin/Debug/Golems.exe
+/Users/danielsong/Documents/CSharpProjects/Golems/Golems/bin/Debug/Golems.pdb
+/Users/danielsong/Documents/CSharpProjects/Golems/Golems/obj/x86/Debug/Golems.csproj.CoreCompileInputs.cache
+/Users/danielsong/Documents/CSharpProjects/Golems/Golems/obj/x86/Debug/Golems.exe
+/Users/danielsong/Documents/CSharpProjects/Golems/Golems/obj/x86/Debug/Golems.pdb

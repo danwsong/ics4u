@@ -1,0 +1,5 @@
+/Users/danielsong/Documents/CSharpProjects/Polymorphism/Polymorphism/obj/x86/Debug/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/danielsong/Documents/CSharpProjects/Polymorphism/Polymorphism/bin/Debug/Polymorphism.exe
+/Users/danielsong/Documents/CSharpProjects/Polymorphism/Polymorphism/bin/Debug/Polymorphism.pdb
+/Users/danielsong/Documents/CSharpProjects/Polymorphism/Polymorphism/obj/x86/Debug/Polymorphism.exe
+/Users/danielsong/Documents/CSharpProjects/Polymorphism/Polymorphism/obj/x86/Debug/Polymorphism.pdb
